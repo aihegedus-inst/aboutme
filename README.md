@@ -191,7 +191,7 @@ Below you'll find my core beliefs.
 
 **I believe** in Directly-Responsible Individual (DRI).
 
-**I believe** teams are gown not hired.
+**I believe** teams are grown not hired.
 
 **I believe** experimentation as a constant practice for learning. Experiment with people, tools, processes and environment.
 
